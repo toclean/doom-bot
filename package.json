@@ -9,6 +9,8 @@
     "erlpack": "^0.1.3",
     "sodium": "^3.0.2",
     "utf-8-validate": "^5.0.2",
+    "youtube-search": "^1.1.4",
+    "ytdl-core": "^2.0.0",
     "zlib-sync": "^0.1.6"
   }
 }
